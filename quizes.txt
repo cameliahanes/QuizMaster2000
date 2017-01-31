@@ -1,0 +1,10 @@
+1,q,a,b,c,a,hard
+2,qq,a,b,c,b,easy
+3,q2,a,b,c,c,hard
+4,a3,a,b,c,b,medium
+5,qqq,a,b,c,a,easy
+6,i,a,b,c,a,easy
+7,j,a,b,c,c,easy
+8,o,a,b,c,c,hard
+9,b,i,j,k,k,medium
+10,s,a,b,c,c,medium
